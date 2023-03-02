@@ -1,2 +1,2 @@
-### Hi, I am Temurbek Suvonov <img src = "[https://media.gphy.com/media/hVRJCLFzcasrR4ia7z/giphy.gif](https://media1.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47i3rp026n67fug3akys8ggxwr056hh9n8ovm2mkhn&rid=giphy.gif&ct=s)" alt="stciker" width = "30px"/>
+### Hi, I am Temurbek Suvonov <iframe src="https://giphy.com/embed/w1OBpBd7kJqHrJnJ13" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/emojitheiconicbrand-hello-hi-wave-w1OBpBd7kJqHrJnJ13">via GIPHY</a></p>
  
