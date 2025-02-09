@@ -8,6 +8,5 @@ I'm a front-end developer passionate about building responsive and scalable web 
 - Tools: Git, GitHub, Vite.js
 
 ## Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/temurbek-suvonov-601308233/)
 - [Telegram](https://t.me/suvonov_temurbek)
-- Email: suvonovtemur2008@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/temurbek-suvonov-601308233/)
