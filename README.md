@@ -1,6 +1,6 @@
 # Hi there, I'm Suvonov Temurbek 👋
 
-I'm a software developer passionate about building responsive and scalable applications using **React**, **Next.js**, *Vue.js**, **Node.js** and **TypeScript**.
+I'm a software developer passionate about building responsive and scalable applications using **React**, **Next.js**, **Vue.js**, **Node.js** and **TypeScript**.
 
 ## Skills
 - Front-end: React, Tailwind CSS, Next.js, Vue.js, JavaScript, TypeScript
